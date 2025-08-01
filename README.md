@@ -43,7 +43,7 @@ cricket-scoring-app/
 │   ├── routes/
 │   └── server.js
 │
-├── frontend/
+├── cricket-scoreboard/
 │   ├── public/
 │   └── src/
 │       ├── App.js
